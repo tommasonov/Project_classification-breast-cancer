@@ -1,3 +1,5 @@
-# Progetto-classification-breast-cancer
+# Project: Breast Cancer Classification
 
-qui troverete il mio codice per creare una rete neurale e il suo utilizzo concreto nel riconoscimento e classificazione dei tumori al seno
+## Introduction
+This project focuses on creating a neural network for the recognition and classification of breast tumors.
+The code provided implements a neural network model and demonstrates its practical usage in the classification of breast cancer.
